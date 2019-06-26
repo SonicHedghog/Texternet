@@ -5,13 +5,13 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="texternet",
-    version="0.1.8",
+    version="1.0.1",
     author="Kyle Henry",
     author_email="kylehenry@texternet.com",
     description="Package for interacting with and developing apps for Texternet.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://texternet.tk",
+    url="https://github.com/SonicHedghog/Texternet",
     packages=setuptools.find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",

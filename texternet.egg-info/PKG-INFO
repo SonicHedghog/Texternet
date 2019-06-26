@@ -1,8 +1,8 @@
 Metadata-Version: 2.1
 Name: texternet
-Version: 0.1.8
+Version: 1.0.1
 Summary: Package for interacting with and developing apps for Texternet.
-Home-page: https://texternet.tk
+Home-page: https://github.com/SonicHedghog/Texternet
 Author: Kyle Henry
 Author-email: kylehenry@texternet.com
 License: UNKNOWN

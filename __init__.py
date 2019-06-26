@@ -11,7 +11,7 @@ name = 'Texternet'
 """This is the class that manages communication between the Texternet server and the Twilio API."""
 class Texternet:
     pass
-    def __init__(self, AUTH_TOKEN, ACCOUNT_SID, PHONENUM):
+    def __init__(self, ACCOUNT_SID, AUTH_TOKEN, PHONENUM):
         """
                 This method sets up a new connection to the Twilio API.
 
