@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="texternet",
-    version="1.0.1",
+    version="1.0.4",
     author="Kyle Henry",
     author_email="kylehenry@texternet.com",
     description="Package for interacting with and developing apps for Texternet.",
